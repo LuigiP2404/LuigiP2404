@@ -30,4 +30,4 @@
 <code><img height="60" src="https://github.com/github/explore/blob/main/topics/nextjs/nextjs.png?raw=true"></code>
 
 ## Portfolio:
-You can accesso to my Portfolio by clicking <a href="https://luigip2404.github.io/Portfolio" target="_blank">here</a>
+You can see my Portfolio by clicking <a href="https://luigip2404.github.io/Portfolio" target="_blank">here</a>

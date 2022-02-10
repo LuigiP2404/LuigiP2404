@@ -9,7 +9,7 @@
 ## Social:
 <a href="https://github.com/LuigiP2404"><img src="https://img.shields.io/badge/-LuigiP2404-%23181717?style=flat-square&logo=github" height="25"></a>
 <a href="https://discord.com/"><img src="https://img.shields.io/badge/-Plat%232404-%232c2f33?style=flat-square&logo=discord" height="25"></a>
-<a href="https://www.instagram.com/luigipaglionico/"><img src="https://img.shields.io/badge/-luigipaglionico-%232c2f33?style=flat-square&color=gray&logo=instagram" height="25"></a>
+<a href="https://www.instagram.com/luigipaglionico/"><img src="https://img.shields.io/badge/-luigipaglionico-%232c2f33?style=flat-square&logo=instagram" height="25"></a>
 <a href="https://www.linkedin.com/in/luigi-paglionico-2551171b6/"><img src="https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white" height="25"></a>
 
 ## Languages:

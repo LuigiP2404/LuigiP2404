@@ -28,6 +28,3 @@
 <code><img height="60" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png?raw=true"></code>
 <code><img height="60" src="https://github.com/github/explore/blob/main/topics/react/react.png?raw=true"></code>
 <code><img height="60" src="https://github.com/github/explore/blob/main/topics/nextjs/nextjs.png?raw=true"></code>
-
-## My Portfolio:
-You can access my Portfolio by clicking <a href="luigip2404.github.io/Portfolio">here</a>

@@ -1,4 +1,4 @@
-![Logo](https://luigip2404.github.io/Portfolio/img/logofooter2.png)
+![Logo](https://luigip2404.github.io/Portfolio/img/logofooter2.png#gh-light-mode-only)
 
 # Hello, my name is <b>Luigi</b>
 

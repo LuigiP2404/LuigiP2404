@@ -15,14 +15,14 @@
 ## Languages:
 <code><img height="60" src="https://github.com/github/explore/blob/main/topics/html/html.png?raw=true"></code>
 <code><img height="60" src="https://github.com/github/explore/blob/main/topics/css/css.png?raw=true"></code>
-<code><img height="60" src="https://github.com/github/explore/blob/main/topics/sass/sass.png?raw=true"></code>
 <code><img height="60" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png?raw=true"></code>
 
 ## Frameworks & Tools:
 <code><img height="60" src="https://github.com/github/explore/blob/main/topics/bootstrap/bootstrap.png?raw=true"></code>
+<code><img height="60" src="https://github.com/github/explore/blob/main/topics/sass/sass.png?raw=true"></code>
 <code><img height="60" src="https://github.com/github/explore/blob/main/topics/jquery/jquery.png?raw=true"></code>
 <code><img height="60" src="https://github.com/github/explore/blob/main/topics/vue/vue.png?raw=true"></code>
-<code><img height="60" src="https://githubusercontent.com/github/explore/main/topics/git/git.png"></code>
+<code><img height="60" src="https://github.com/github/explore/blob/main/topics/git/git.png?raw=true"></code>
 
 ## To-Do Languages & Frameworks: 
 <code><img height="60" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png?raw=true"></code>

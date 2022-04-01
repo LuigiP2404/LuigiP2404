@@ -4,7 +4,7 @@
 
 * Self-taught Front-End Developer
 * Based in Bari, Italy
-* Currently working for IoAgri - https://ioagri.it/
+* Currently working for Agriverse - https://agriverse.it/
 
 ## Social:
 <a href="https://github.com/LuigiP2404" target="_blank"><img src="https://img.shields.io/badge/-LuigiP2404-%23181717?style=flat-square&logo=github" height="25"></a>

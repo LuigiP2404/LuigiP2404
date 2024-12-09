@@ -23,9 +23,10 @@
 <code><img height="60" src="https://github.com/github/explore/blob/main/topics/jquery/jquery.png?raw=true"></code>
 <code><img height="60" src="https://github.com/github/explore/blob/main/topics/vue/vue.png?raw=true"></code>
 <code><img height="60" src="https://github.com/github/explore/blob/main/topics/git/git.png?raw=true"></code>
+<code><img height="60" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png?raw=true"></code>
 
 ## To-Do Languages & Frameworks: 
-<code><img height="60" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png?raw=true"></code>
+
 <code><img height="60" src="https://github.com/github/explore/blob/main/topics/react/react.png?raw=true"></code>
 <code><img height="60" src="https://github.com/github/explore/blob/main/topics/nextjs/nextjs.png?raw=true"></code>
 
